@@ -11,3 +11,7 @@ C:\Users\Nhat Tran\source\repos\MySuperBank\MySuperBank\obj\Debug\netcoreapp3.1\
 C:\Users\Nhat Tran\source\repos\MySuperBank\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.dll
 C:\Users\Nhat Tran\source\repos\MySuperBank\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.pdb
 C:\Users\Nhat Tran\source\repos\MySuperBank\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.genruntimeconfig.cache
+C:\Users\Nhat Tran\source\repos\MySuperBank\MySuperBank\bin\Debug\netcoreapp3.1\BankLibrary.dll
+C:\Users\Nhat Tran\source\repos\MySuperBank\MySuperBank\bin\Debug\netcoreapp3.1\BankLibrary.pdb
+C:\Users\Nhat Tran\source\repos\MySuperBank\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.csproj.CopyComplete
+C:\Users\Nhat Tran\source\repos\MySuperBank\MySuperBank\bin\Debug\netcoreapp3.1\Humanizer.dll

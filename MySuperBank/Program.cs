@@ -1,11 +1,19 @@
 ﻿using System;
+//using Humanizer;
 
-namespace MySuperBank
+namespace BankLibrary
 {
     class Program
     {
         static void Main(string[] args)
         {
+
+            //Testing using Nuget packet humanizer.CORE
+            //Console.WriteLine("Car".Pluralize());
+            //Console.WriteLine("People".Pluralize());
+            //Console.WriteLine("information".Pluralize());
+            //Console.WriteLine(3456.ToWords());
+
             var account = new BankAccount("Nhat", 10000);
             
             Console.WriteLine($"Account #{account.Number} was created for {account.Owner} with a 1st deposit of ${account.Balance}");

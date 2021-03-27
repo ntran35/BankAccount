@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MySuperBank
+namespace BankLibrary
 {
     public class BankAccount
     {
@@ -60,10 +60,10 @@ namespace MySuperBank
 
         public string getAccountHistory() {
             var report = new StringBuilder();
-            report.AppendLine("Date \t \tAmount\t \tNotes" );
+            report.AppendLine("Date \t \t\tAmount\t \t\tNotes" );
 
             foreach (var item in allTransactions) {
-                report.AppendLine($"{item.Date.ToShortDateString()} \t{item.Amount} \t{item.Notes}");
+                report.AppendLine($"{item.Date.ToShortDateString()} \t{item.AmountHumanRead} \t\t{item.Notes}");
             }
 
             return report.ToString();

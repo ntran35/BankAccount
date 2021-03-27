@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmsEg9RuJz8j/NoveYRfBXZzkDgXUkRH5UTkbjTGRXiF1ZX6Zcrd53JqxTMFg6XAMwhJbWsDzc9FIaPduOMarg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nhat Tran\\source\\repos\\MySuperBank\\BankLibrary\\BankLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nhat Tran\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}

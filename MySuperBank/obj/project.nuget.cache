@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AKA7J604asPo1l+LiBKiO7AkxgN25h4SKLKsJQkZBY+/fox8rngmN1qXRuSFtrd7zUVM6GYTfp+AeQutCMk9Tw==",
+  "dgSpecHash": "8iyR/5GwgUck0t8eO1NyeO6hb2dsthmCNlog1IHGjWk576GB3YUDqGGRrYE4PvipP0+IJMltuiJzZR9lA4nQcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nhat Tran\\source\\repos\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nhat Tran\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
   "logs": []
 }
